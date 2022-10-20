@@ -1,0 +1,20 @@
+body {
+    background: black;
+    color: white;
+}
+.cim {
+    font-size: 40px;
+    color: blue;
+}
+
+.image{
+    position: relative;
+    width: 400px;
+    height: 600px;
+}
+
+.elokep{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+}
